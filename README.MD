@@ -1,0 +1,6 @@
+-- Download the repository from the github
+-- Open CurrencyConverter.sln using Visual studio
+-- Set CurrencyConverter as start up project
+-- Restore the nugets andbuild the application
+-- run the application
+-- try the api enpoint usig the swagger
